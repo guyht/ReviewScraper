@@ -1,0 +1,14 @@
+.report {
+	margin-bottom: 30px;
+	padding: 10px;
+	border-color: #5cb7b1;
+	border-style: dashed;
+	border-width: 5px;
+}
+
+.review {
+	margin-bottom: 15px;
+	border-color: black;
+	border-style: solid;
+	border-bottom-width: 1px;
+}
